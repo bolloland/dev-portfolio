@@ -95,7 +95,7 @@ It has 2 keys, *logo* and *sections*.
 ```
 {
     "logo" : {
-        "source": "images/logo.png",
+        "source": "images/stay_positive2.jpg",
         "height" : 45,
         "width" : 50
     },
