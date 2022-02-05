@@ -8,9 +8,14 @@
             "network" : "github",
             "href": "https://github.com/bolloland"
         },
+         {
+            "network" : "medium",
+            "href": "https://bolloland.medium.com/"
+        },
         {
             "network" : "email",
             "href": "mailto:ryan.bollettino@gmail.com"
         }
+       
     ]
 }
