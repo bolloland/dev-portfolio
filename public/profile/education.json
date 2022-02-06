@@ -4,7 +4,7 @@
             "title": "Nov (2020) -> {Jan 2022}",
             "cardTitle": "Flatiron School Bootcamp",
             "cardSubtitle":"Remote / Chicago, IL",
-            "cardDetailedText": "Fullstack Software Development",
+            "cardDetailedText": "Certification: Fullstack Software Development",
             "icon" : {
                 "src": ""
             }
@@ -13,13 +13,13 @@
             "title": "Dec 2016",
             "cardTitle": "National Louis University",
             "cardSubtitle": "Chicago, IL",
-            "cardDetailedText": "Masters in Teaching: Secondary Education"
+            "cardDetailedText": "Certification & Masters in Teaching: Secondary Education"
         },
         {
             "title": "May 1998",
             "cardTitle": "University of Iowa",
             "cardSubtitle":"Iowa City, Iowa",
-            "cardDetailedText": "B.A. Theater Arts"
+            "cardDetailedText": "B.A. Liberal Arts: Theater"
         }
     ]
 }
