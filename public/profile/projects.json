@@ -1,7 +1,7 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/boardhoard.JPG",
+            "image" : "images/projects/boardhoard.PNG",
             "title": "Board Hoard",
             "bodyText": "- Board Game Database App made in React/Redux.\n -  API based website that allows for user to rate and add games, and start a personal \"collection\".\n - Deployed on heroku",
             "links": [
@@ -49,7 +49,7 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/bolloland/tutorhub"
+                    "href": "https://github.com/bolloland/tutorhub.PNG"
                 },
                 {
                     "text": "Demo",
