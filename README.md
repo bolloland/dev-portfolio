@@ -7,6 +7,15 @@
   <br>
 </h2>
 
+## UPDATING BUILD THROUGH NETLIFY:
+```npm run build
+```netlify deploy --build
+publish? ```./build
+
+*you may have to update/downgrade nvm*
+```nvm install 14.14.0  //or whatever is stable at the time//
+```npm install netlify-cli -g
+
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
