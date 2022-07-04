@@ -2,7 +2,7 @@
     "projects" : [
         {
             "image" : "images/projects/braille-translator.png",
-            "title": "Braille Translator",
+            "title": "Braille Translator (June '22)",
             "bodyText": "- React powered translator for Braille.\n -  Allows users to translate from Braille to Standard American English using up-to-date braille libraries.\n - Deployed/Hosted with Netlify",
             "links": [
                 {
@@ -11,7 +11,7 @@
                 },
                 {
                     "text": "Live Demo",
-                    "href": "https://www.loom.com/share/e4b3a960cc754f7faac06e4d1711a34f"
+                    "href": "https://braille-translator-bollettino.netlify.app/"
                 }
             ],
             "tags" : [
