@@ -1,6 +1,27 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/braille-translator.png",
+            "title": "Braille Translator",
+            "bodyText": "- React powered translator for Braille.\n -  Allows users to translate from Braille to Standard American English using up-to-date braille libraries.\n - Deployed/Hosted with Netlify",
+            "links": [
+                {
+                    "text": "Github",
+                    "href": "https://github.com/bolloland/braille"
+                },
+                {
+                    "text": "Live Demo",
+                    "href": "https://www.loom.com/share/e4b3a960cc754f7faac06e4d1711a34f"
+                }
+            ],
+            "tags" : [
+                "React w/Hooks",
+                "useContext",
+                "JavaScript",
+                "Netlify"
+            ]
+        },
+        {
             "image" : "images/projects/boardhoard.PNG",
             "title": "Board Hoard",
             "bodyText": "- Board Game Database App made in React/Redux.\n -  API based website that allows for user to rate and add games, and start a personal \"collection\".\n - Deployed on heroku",
